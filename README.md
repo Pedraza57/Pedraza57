@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World! 🌎 I'm Bryan Pedraza, a passionate Cloud Engineer ☁️ specializing in DevOps practices. With a keen interest in automating and streamlining processes, I'm on a mission to bridge the gap between development and operations to deliver robust and scalable cloud solutions.<br><br>💻☁️Check My Cloud Resume ☁️💻 :<br><br>www.devopsbybryan.com<br><br><br>
+👋 Hello World! 🌎 My name is Bryan Pedraza, a passionate senior business analyst ☁️. With a keen interest in automating and streamlining processes, I'm on a mission to transform complex data into actionable insights.<br><br>💻☁️Check My Cloud Resume ☁️💻 :<br><br>www.devopsbybryan.com<br><br><br>
 
 
 ## 🌐 Socials:
